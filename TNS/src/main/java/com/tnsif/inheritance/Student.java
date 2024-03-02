@@ -20,7 +20,7 @@ public class Student
 	// parent class parameterzied 
 	public Student(String name,String address,long aadharno,long phoneno) 
 	{
-	super(name,address,aadharno,phoneno);
+	//super(name,address,aadharno,phoneno);
 	this.roolno = roolno;
 	this.collegename = collegename;
 }

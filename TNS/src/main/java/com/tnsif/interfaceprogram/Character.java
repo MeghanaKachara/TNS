@@ -1,5 +1,6 @@
 package com.tnsif.interfaceprogram;
-
-public interface Character {
-
+//Multiple inheritance
+public interface Character 
+{
+	
 }
